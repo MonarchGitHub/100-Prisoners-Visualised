@@ -1,2 +1,5 @@
 # 100-Prisoners-Visualised
-A visual representation of the 100 Prisoners problem as described by Veritasium
+[![100p](https://img.youtube.com/vi/iSNsgj1OCLA/0.jpg)](https://www.youtube.com/watch?v=iSNsgj1OCLA)
+<br>
+### I loved the problem, so i turned it into a website where you can simulate and test the problem itself!
+<br>
