@@ -3,6 +3,6 @@
 <br>
 <em>video uploaded by veritasium.</em>
 <br>
-### I loved the problem, so i turned it into a website where you can simulate and test the problem itself!
+### I loved the problem, so i turned it into a website where you can simulate and test the theory itself!
 
 
